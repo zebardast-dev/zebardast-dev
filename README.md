@@ -17,7 +17,7 @@ I'm Mostafa Zebardast, a Back End Developer.
 
 ### Technologies:
 <div style="display: inline_block"><br>
-  <code><img height="25" src="https://www.iconfinder.com/icons/3069648/download/png/64"></code>
+  <code><img height="25" src="https://www.iconfinder.com/icons/4375039/download/svg/4096"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"></code>
