@@ -19,11 +19,5 @@ I'm Mostafa Zebardast, a Back End Developer.
 <div style="display: inline_block"><br>
   <code><img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"></code>
   <code><img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-plain.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-  <code><img height="25" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/laravel.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain.svg"></code>
 </div>
