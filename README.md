@@ -3,7 +3,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-MyTelegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zebardast_dev)
 
 ## Hi 👋, 
-I'm Mehdi Zandian, a Front End developer 👨‍💻 who is passionate about JavaScript technologies. 
+I'm Mostafa Zebardast, a Back End Developer. 
 
 <p align="justify"> 
     <img
