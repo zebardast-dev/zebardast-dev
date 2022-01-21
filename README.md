@@ -14,6 +14,7 @@ I'm a Back-End Developer (PHP - Laravel), Interested in learning new technologie
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"></code>
   <code><img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
