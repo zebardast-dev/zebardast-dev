@@ -28,7 +28,14 @@ I'm a Back-End Developer (PHP - Laravel), Interested in learning new technologie
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=zebardast-dev&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
-    <!--<img
+    <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebardast-dev&count_private=true&layout=compact&theme=radical" />-->
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebardast-dev&count_private=true&layout=compact&theme=radical" />
 </p>
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=zebardast-dev)
+
+[![Github](https://img.shields.io/github/followers/zebardast-dev?label=Follow&style=social)](https://github.com/zebardast-dev)
+
+
