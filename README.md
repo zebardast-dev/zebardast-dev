@@ -23,7 +23,7 @@ I'm a Back-End Developer (PHP - Laravel), Interested in learning new technologie
 
 [![--------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-<p align="justify"> 
+<!-- <p align="justify"> 
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=zebardast-dev&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
@@ -31,7 +31,7 @@ I'm a Back-End Developer (PHP - Laravel), Interested in learning new technologie
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebardast-dev&count_private=true&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=zebardast-dev)
