@@ -3,7 +3,7 @@ I'm a Back-End Developer (PHP - Laravel), Interested in learning new technologie
 :)
 
 ## Connect with me
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zebardast_dev/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zebardast.dev/)
 [![image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zebardast_dev)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zebardast.dev@gmail.com)
 
@@ -23,7 +23,15 @@ I'm a Back-End Developer (PHP - Laravel), Interested in learning new technologie
 
 [![--------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-
+<p align="justify"> 
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=zebardast-dev&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=zebardast-dev&count_private=true&layout=compact&theme=radical" />
+</p>
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=zebardast-dev)
