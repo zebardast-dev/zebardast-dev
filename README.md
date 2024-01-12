@@ -1,5 +1,5 @@
 # Hi, I'm Mostafa Zebardast 👋, 
-I'm a Back-End Developer (PHP - Laravel), Interested in learning new technologies and challenges in the field of programming
+I'm a Back-End Developer (PHP - Wordpress), Interested in learning new technologies and challenges in the field of programming
 :)
 
 ## Connect with me
